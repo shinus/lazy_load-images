@@ -63,6 +63,7 @@ const LazyLoadingComponent = () => {
           <p className="loading-text">Hang on Loading...</p>
         </div>
       )}
+      
     </div>
   );
 };
